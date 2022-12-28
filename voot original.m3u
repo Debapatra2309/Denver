@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://indtv.me/guide.gz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Sony Liv DenverIPTV",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="144" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+https://jiotblive.ml/voot/master.php?c=Colors_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1368" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",Colors
+https://jiotblive.ml/voot/master.php?c=Colors_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1370" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+https://jiotblive.ml/voot/master.php?c=Colors_Rishtey_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="756" group-title="VOOT" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengla HD
+https://jiotblive.ml/voot/master.php?c=Colors_Bangla_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1369" group-title="VOOT" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",Colors Bangla
+https://jiotblive.ml/voot/master.php?c=Colors_Bangla_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="757" group-title="VOOT" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
+https://jiotblive.ml/voot/master.php?c=Colors_Kannada_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1370" group-title="VOOT" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png",Colors Kannada
+https://jiotblive.ml/voot/master.php?c=Colors_Kannada_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="755" group-title="VOOT" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
+https://jiotblive.ml/voot/master.php?c=Colors_Marathi_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1326" group-title="VOOT" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",Colors Marathi
+https://jiotblive.ml/voot/master.php?c=Colors_Marathi_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="429" group-title="VOOT" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
+https://jiotblive.ml/voot/master.php?c=Colors_Tamil_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="429" group-title="VOOT" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",Colors Tamil
+https://jiotblive.ml/voot/master.php?c=Colors_Tamil_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="196" group-title="VOOT" tvg-language="Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati
+https://jiotblive.ml/voot/master.php?c=Colors_Gujarati_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="198" group-title="VOOT" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",Colors Oriya
+https://jiotblive.ml/voot/master.php?c=Colors_Oriya_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1364" group-title="VOOT" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq9w31ncX4kqwZXGSw8GT1_ZIf3PMqTg7_A&usqp=CAU",Comedy Central HD 
+https://jiotblive.ml/voot/master.php?c=Comedy_Central_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1327" group-title="VOOT" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj-A1nCwvy0a1Voo12QRwJXh-zBC8RSCrUQ&usqp=CAU",Comedy Central
+https://jiotblive.ml/voot/master.php?c=Comedy_Central_SD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+https://jiotblive.ml/voot/master.php?c=Colors_Infinity_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1325" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity
+https://jiotblive.ml/voot/master.php?c=Colors_Infinity_SD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1477" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+https://jiotblive.ml/voot/master.php?c=Colors_Cineplex_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="482" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
+https://jiotblive.ml/voot/master.php?c=Colors_Cineplex_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1450" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex Superhit
+https://jiotblive.ml/voot/master.php?c=Rishtey_Cineplex_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1763" group- title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+https://jiotblive.ml/voot/master.php?c=Colors_Cineplex_Bollywood_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="785" group-title="VOOT" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",Colors Super
+https://jiotblive.ml/voot/master.php?c=Colors_Super_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1632" group-title="VOOT" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",Colors Bangla Cinema
+http://jiotblive.ml/voot/voot.php?c=Colors_Bangla_Cinema_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1632" group-title="VOOT" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",Colors Kannada Cinema
+https://jiotblive.ml/voot/master.php?c=Colors_Kannada_Cinema_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1324" group-title="VOOT" tvg-language="Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",Colors Gujarati Cinema
+https://jiotblive.ml/voot/master.php?c=Colors_Gujarati_Cinema_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1145" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+https://jiotblive.ml/voot/master.php?c=MTV_HD_Plus_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="248" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTV
+https://jiotblive.ml/voot/master.php?c=MTV_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="753" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+https://jiotblive.ml/voot/master.php?c=MTV_Beats_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1378" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",VH1
+https://jiotblive.ml/voot/master.php?c=VH1_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1400" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats
+https://jiotblive.ml/voot/master.php?c=MTV_Beats_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1402" group-title="VOOT" tvg-language="Hindi" tvg-logo="data:image/png;base64,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",Clubbing TV
+https://jiotblive.ml/voot/master.php?c=Clubbing_TV_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+https://jiotblive.ml/voot/master.php?c=Nick_HD_Plus_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="545" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
+https://jiotblive.ml/voot/master.php?c=Nick_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="544" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+https://jiotblive.ml/voot/master.php?c=Nick_Junior_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="815" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic
+https://jiotblive.ml/voot/master.php?c=Sonic_Nickelodeon_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",SPORTS 18 HD
+https://jiotblive.ml/voot/master.php?c=Sports18_1_HD_voot_MOB&type=.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",SPORTS 18
+https://jiotblive.ml/voot/master.php?c=Sports18_1_SD_voot_MOB&type=.m3u8
+
