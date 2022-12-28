@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://indtv.me/guide.gz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Sony Liv DenverIPTV",@DenverIPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="VOOT",@DenverIPTV
 https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
 #EXTINF:-1 tvg-id="144" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://jiotblive.ml/voot/master.php?c=Colors_HD_voot_MOB&type=.m3u8
