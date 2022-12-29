@@ -2,93 +2,97 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
 https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
-#EXTINF:-1 tvg-id="1244" tvg-name="Disney" tvg-logo="https://te.legra.ph/file/9a704f369e9a192ae50d6.jpg" group-title="Denver KIDS PACK",Disney Channel
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862661&extension=m3u8&play_token=vug65MNMFj
-#EXTINFF:-1 tvg-id="1244" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a7c9985b00875dbe18c1b.jpg" group-title="Denver KIDS PACK",Hungama TV
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862674&extension=m3u8&play_token=VkCU30c2ku
-#EXTINFF:-1 tvg-id="1244" tvg-name="Super Hungama" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png" group-title="Denver KIDS PACK",Super Hungama
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862679&extension=m3u8&play_token=FAMoWEeJkw
-#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Denver KIDS PACK",Nick Hindi
-https://tv.freeseries.eu.org/live.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Denver KIDS PACK",Nick Kannada
-https://tv.freeseries.eu.org/live.php?c=Nick_Kannada&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Denver KIDS PACK",Nick Tamil
-https://tv.freeseries.eu.org/live.php?c=Nick_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Denver KIDS PACK",Nick Telugu
-https://tv.freeseries.eu.org/live.php?c=Nick_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1340" tvg-name="Nick Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Denver KIDS PACK",Nick Malayalam
-https://tv.freeseries.eu.org/live.php?c=Nick_Malayalam&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Denver KIDS PACK",Nick Bangla
-https://tv.freeseries.eu.org/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1342" tvg-name="Nick Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Denver KIDS PACK",Nick Marathi
-https://tv.freeseries.eu.org/live.php?c=Nick_Marathi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
-https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
-#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Denver KIDS PACK",Nick Junior
-https://tv.freeseries.eu.org/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Denver KIDS PACK",Nickelodeon Jr.
-https://tv.freeseries.eu.org/live.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Denver KIDS PACK",Nick HD+
-https://tv.freeseries.eu.org/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="547" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Denver KIDS PACK",Nickelodeon
-https://tv.freeseries.eu.org/live.php?c=Nickelodeo&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Denver KIDS PACK",Pogo Hindi
-https://tv.freeseries.eu.org/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Denver KIDS PACK",Pogo Tamil
-https://tv.freeseries.eu.org/live.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1883" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Denver KIDS PACK",Pogo Telugu
-https://tv.freeseries.eu.org/live.php?c=Pogo_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Denver KIDS PACK",Cartoon Network Hindi
-https://tv.freeseries.eu.org/live.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Denver KIDS PACK",Cartoon Network Tamil
-https://tv.freeseries.eu.org/live.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Denver KIDS PACK",Cartoon Network Telugu
-https://tv.freeseries.eu.org/live.php?c=Cartoon_Network_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
-https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
-#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Denver KIDS PACK",CN HD+ English
-https://tv.freeseries.eu.org/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Denver KIDS PACK",CN HD+ Tamil
-https://tv.freeseries.eu.org/live.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1080" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Denver KIDS PACK",CN HD+ Telugu
-https://tv.freeseries.eu.org/live.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Denver KIDS PACK",Sonic Hindi
-https://tv.freeseries.eu.org/live.php?c=sonic_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Denver KIDS PACK",sonic Tamil
-https://tv.freeseries.eu.org/live.php?c=sonic_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1344" tvg-name="Sonic Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Denver KIDS PACK",Sonic Malayalam
-https://tv.freeseries.eu.org/live.php?c=Sonic_Malayalam&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Denver KIDS PACK",Sonic Bangla
-https://tv.freeseries.eu.org/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Denver KIDS PACK",Sonic Marathi
-https://tv.freeseries.eu.org/live.php?c=Sonic_Marathi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1242" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Denver KIDS PACK",Sonic Telugu
-https://tv.freeseries.eu.org/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1243" tvg-name="Sonic Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Denver KIDS PACK",Sonic Kannada
-https://tv.freeseries.eu.org/live.php?c=Sonic_Kannada&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Denver KIDS PACK",Sony Yay Hindi
-https://tv.freeseries.eu.org/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="874" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Denver KIDS PACK",Sony Yay Telugu
-https://tv.freeseries.eu.org/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Denver KIDS PACK",Sony Yay Tamil
-https://tv.freeseries.eu.org/live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Denver KIDS PACK",Discovery Kids 2
-https://tv.freeseries.eu.org/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Denver KIDS PACK",Discovery Kids Tamil
-https://tv.freeseries.eu.org/live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1601" tvg-name="ZooMoo HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="Denver KIDS PACK",ZooMoo HD
-https://tv.freeseries.eu.org/live.php?c=ZooMoo_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Denver KIDS PACK",Rongeen TV
-https://tv.freeseries.eu.org/live.php?c=Rongeen_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Denver KIDS PACK",Highbrow
-https://tv.freeseries.eu.org/live.php?c=Highbrow&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1430" tvg-name="Jio KIDS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Denver KIDS PACK",Jio KIDS
-https://tv.freeseries.eu.org/live.php?c=Jio_KIDS&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Denver KIDS PACK",Hoopla Kidz TV
-https://tv.freeseries.eu.org/live.php?c=Hoopla_Kids_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="DreamWorks" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="Denver KIDS PACK",DreamWorks
-https://tv.freeseries.eu.org/live.php?c=Dreamworks&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="BBC Cbeebies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Cbeebies.png" group-title="Denver KIDS PACK",BBC Cbeebies
-https://tv.freeseries.eu.org/live.php?c=BBC_Cbeebies&q=1200&e=junk.m3u8
+http://noobbro.xyz/Zioo/autoq.php?c=BBC_Cbeebies&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="DreamWorks" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="Denver KIDS PACK",DreamWorks
+http://noobbro.xyz/Zioo/autoq.php?c=Dreamworks&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Denver KIDS PACK",Cartoon Network Hindi
+http://noobbro.xyz/Zioo/autoq.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Denver KIDS PACK",Cartoon Network Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Denver KIDS PACK",Cartoon Network Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=Cartoon_Network_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Denver KIDS PACK",CN HD+ English
+http://noobbro.xyz/Zioo/autoq.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Denver KIDS PACK",CN HD+ Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Denver KIDS PACK",CN HD+ Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Denver KIDS PACK",Discovery Kids
+http://noobbro.xyz/Zioo/autoq.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Denver KIDS PACK",Discovery Kids Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney" tvg-logo="https://te.legra.ph/file/9a704f369e9a192ae50d6.jpg" group-title="Denver KIDS PACK",Disney Channel
+https://tsneh.vercel.app/denveriptvdisney45.m3u8
+#EXTINF:-1 tvg-id="1244" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y5JXTXzAUpZVgxMP631oEefL1awd0b-ECg&usqp=CAU" group-title="Denver KIDS PACK",Disney junior
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Denver KIDS PACK",Highbrow
+http://noobbro.xyz/Zioo/autoq.php?c=Highbrow&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Denver KIDS PACK",Hoopla Kidz TV
+http://noobbro.xyz/Zioo/autoq.php?c=Hoopla_Kids_TV&q=1200&e=junk.m3u8
+#EXTINFF:-1 tvg-id="1244" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a7c9985b00875dbe18c1b.jpg" group-title="Denver KIDS PACK",Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="1430" tvg-name="Jio KIDS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Denver KIDS PACK",Jio KIDS
+http://noobbro.xyz/Zioo/autoq.php?c=Jio_KIDS&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Denver KIDS PACK",Nick Hindi
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Denver KIDS PACK",Nick Kannada
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Kannada&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Denver KIDS PACK",Nick Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Denver KIDS PACK",Nick Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1340" tvg-name="Nick Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Denver KIDS PACK",Nick Malayalam
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Malayalam&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Denver KIDS PACK",Nick Bangla
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1342" tvg-name="Nick Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Denver KIDS PACK",Nick Marathi
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Marathi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Denver KIDS PACK",Nick Junior
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_Junior&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Denver KIDS PACK",Nickelodeon Jr.
+http://noobbro.xyz/Zioo/autoq.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Denver KIDS PACK",Nick HD+
+http://noobbro.xyz/Zioo/autoq.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="547" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Denver KIDS PACK",Nickelodeon
+http://noobbro.xyz/Zioo/autoq.php?c=Nickelodeo&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Denver KIDS PACK",Pogo Hindi
+http://noobbro.xyz/Zioo/autoq.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Denver KIDS PACK",Pogo Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1883" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Denver KIDS PACK",Pogo Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=Pogo_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1667" tvg-name="Rongeen TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Denver KIDS PACK",Rongeen TV
+http://noobbro.xyz/Zioo/autoq.php?c=Rongeen_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Denver KIDS PACK",Sonic Hindi
+http://noobbro.xyz/Zioo/autoq.php?c=sonic_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Denver KIDS PACK",sonic Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=sonic_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1344" tvg-name="Sonic Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Denver KIDS PACK",Sonic Malayalam
+http://noobbro.xyz/Zioo/autoq.php?c=Sonic_Malayalam&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Denver KIDS PACK",Sonic Bangla
+http://noobbro.xyz/Zioo/autoq.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Denver KIDS PACK",Sonic Marathi
+http://noobbro.xyz/Zioo/autoq.php?c=Sonic_Marathi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1242" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Denver KIDS PACK",Sonic Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1243" tvg-name="Sonic Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Denver KIDS PACK",Sonic Kannada
+http://noobbro.xyz/Zioo/autoq.php?c=Sonic_Kannada&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Denver KIDS PACK",Sony Yay Hindi
+http://noobbro.xyz/Zioo/autoq.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="874" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Denver KIDS PACK",Sony Yay Telugu
+http://noobbro.xyz/Zioo/autoq.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Denver KIDS PACK",Sony Yay Tamil
+http://noobbro.xyz/Zioo/autoq.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
+#EXTINFF:-1 tvg-id="1244" tvg-name="Super Hungama" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png" group-title="Denver KIDS PACK",Super Hungama
+http://103.166.102.58:8000/play/a05p
+#EXTINF:-1 tvg-id="1920" group-title="Denver KIDS PACK" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQ_Kahaniyan.png",The Q Kahaniyan
+http://noobbro.xyz/Zioo/autoq.php?c=TheQ_Kahaniya&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1601" tvg-name="ZooMoo HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="Denver KIDS PACK",ZooMoo HD
+http://noobbro.xyz/Zioo/autoq.php?c=ZooMoo_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="Denver KIDS PACK",@DenverIPTV
 https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
